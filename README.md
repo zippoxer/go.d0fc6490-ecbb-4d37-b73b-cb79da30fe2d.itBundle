@@ -1,0 +1,1 @@
+Copy `go.d0fc6490-ecbb-4d37-b73b-cb79da30fe2d.itBundle` to `<intype path>\user\bundles`.
